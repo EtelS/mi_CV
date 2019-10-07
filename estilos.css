@@ -1,0 +1,52 @@
+body{
+    background:  #FFEAE5;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+li{
+    list-style-type: none;
+}
+h1, h2, h3, h5{
+    color:#00226F;
+}
+h2{
+    font-size: 20px;
+    border-bottom: 2px solid #00226F;
+}
+h5{
+    font-size: 15px;
+}
+a{
+    text-decoration: none;
+}
+#perfil_izquierdo{
+    width: 20%;
+    float: left;
+    margin: 5px;
+    
+}
+#foto_perfil{
+    border: 5px solid #FF6F61 ;
+    border-radius: 50px;
+    margin: 10px;
+}
+#link{
+    background: #FF6F61;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.general{
+    width: 75%;
+    float: right;
+    border-radius: 10px;
+    background: #ffffff;
+    margin: 10px;
+    padding: 25px;   
+}
+.iconos{
+    width: 18%;
+	float: left;
+	margin-left: 5%;
+}
+
+
