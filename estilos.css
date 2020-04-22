@@ -8,6 +8,8 @@ header{
     padding: 5px;
     border-radius: 10px;
     margin: 10px;
+    height: 100px;
+    text-align: center;
     position: relative;
 }
 li{
@@ -37,10 +39,12 @@ a{
     border: 5px solid #FF6F61 ;
     border-radius: 25px;
     margin: 10px;
+    float: left;
 }
-/*.link{
-    
-} */
+.link{
+    margin: 20px;
+    display: inline-block;
+} 
 .general{
     width: 70%;
     float: right;
